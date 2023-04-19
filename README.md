@@ -27,7 +27,7 @@ Step6:
 Operate the image using Canny Edge operator.
 Step7:
 
-Show all the operated images output.
+Show all the operated images output
 
  
 ## Program:
