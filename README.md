@@ -94,6 +94,8 @@ plt.show()
 ### SOBEL EDGE DETECTOR
 
 ![dip y7-1](https://user-images.githubusercontent.com/94619247/233027909-f11b9189-32ff-44a7-9011-2d88468ac773.jpg)
+
+
 ![dip y7-2](https://user-images.githubusercontent.com/94619247/233027885-258aa96f-47d7-4d1f-9fe3-1e3dde1b4c2e.jpg)
 
 ### LAPLACIAN EDGE DETECTOR
